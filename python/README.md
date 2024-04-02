@@ -1,7 +1,3 @@
-Sure, here's a simple README file that provides instructions on how to edit the script, install dependencies, and run it:
-
----
-
 # API Call Script
 
 This Python script makes a call to an API endpoint with basic authentication, uploads a binary file, and saves the response files to a specified directory.
