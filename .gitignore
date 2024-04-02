@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/csharp/.vs
+/csharp/CallHalo/bin/Debug/net8.0
+/csharp/CallHalo/obj
